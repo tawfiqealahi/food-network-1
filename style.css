@@ -87,3 +87,14 @@ h3{
     text-align: center;
     padding: 10px 50px;
 }
+.end{
+    text-align: center;
+    background: rgba(71, 70, 70, 0.808);
+}
+ .end p{
+     color: antiquewhite;
+     padding-bottom: 50px;
+ }
+ .end h3{
+     padding-top: 40px;
+ }
