@@ -12,7 +12,6 @@
 }
 .header{
     display: flex;
-    margin-left: 20px;
 }
 .first-part{
     width: 50%;
@@ -43,20 +42,24 @@ a{
      padding: 8px;
      border-radius:30px ;
      position: absolute;
-     margin-top: 50px;
-     -webkit-border-radius:30px ;
-     -moz-border-radius:30px ;
-     -ms-border-radius:30px ;
-     -o-border-radius:30px ;
+     margin-top: 30px;
+     -webkit-border-radius:;
+     -moz-border-radius:;
+     -ms-border-radius:;
+     -o-border-radius:;
 }
 .about-me{
-    background-image: url(images/shapes/Frame\ 59.jpg);
+    background-image: url(images/shapes/Frame-58.jpg);
     width: 100%;
-    margin: 0;
+    margin-top: 90px;
+}
+.about-me img{
+    width: 35%;
+    padding: 15px 90px 5px;
 }
  .about{
-    padding: 80px 80px;
-
+     width: 50%;
+    padding: 150px 0px;
 }
 h3{
     font-size: 25px;
@@ -64,7 +67,7 @@ h3{
 
 .my-recipies{
     text-align: center; 
-    margin-top: 70px;   
+    margin: 70px 0;   
 }
 .my-recipies h3{
     margin-bottom: 20px;
